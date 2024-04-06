@@ -1,0 +1,20 @@
+{
+  "name": "9896-cli-number-guessing-game",
+  "version": "2.0.7",
+  "description": "cli number guessing game using typescript",
+  "main": "CLI.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jahanzai ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "9896cli-number-guessing-game": "^2.0.2",
+    "inquirer": "^9.2.17"
+  }
+}
